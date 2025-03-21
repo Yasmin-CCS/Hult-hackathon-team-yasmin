@@ -6,14 +6,17 @@
 ⚡ Charge Smart</br>
 💵 Save Money</br>
 💡 Help the Grid
-</br>This project was created for a Hult University hackathon to make EV charging smarter and more affordable.
+</br>This project was created for a Hult University hackathon to make EV charging smarter and more affordable.</br>
+Stop overpaying for charging! Optimize your schedule, cut costs, and reduce strain on the grid. Smarter charging = bigger savings.
 </br></br>
 🚀 How It Works</br>
 Tell us your daily routine.</br>
 We’ll calculate the best charging times based on low-demand hours and cheaper rates.</br>
 Get a clear estimate of how much money you’ll save.</br></br>
-💡 Why It Matters</br>
-Stop overpaying for charging! Optimize your schedule, cut costs, and reduce strain on the grid. Smarter charging = bigger savings.
+
+🛠️ Built With
+Next.js – Fast, scalable, and easy to maintain.
+EIA API – We pull real-time demand data to give you accurate charging recommendations.
 
 Demo</br>
 https://www.canva.com/design/DAGhR5cu-fE/uk2Oax_98AwnPxT3CKuq9w/edit?utm_content=DAGhR5cu-fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
