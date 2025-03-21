@@ -7,7 +7,7 @@ The three core pillars of the idea are:</br>
 ⚡ Charge Smart</br>
 💵 Save Money</br>
 💡 Help the Grid</br></br>
-</br></br>
+
 🚀 How It Works</br>
 Input your daily routine.</br>
 And the tool will calculate the best charging times based on low-demand hours and cheaper rates.</br>
