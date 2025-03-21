@@ -14,5 +14,5 @@ Get a clear estimate of how much money you’ll save.
 💡 Why It Matters
 Stop overpaying for charging! Optimize your schedule, cut costs, and reduce strain on the grid. Smarter charging = bigger savings.
 
-Slide Deck
+Demo
 https://www.canva.com/design/DAGhR5cu-fE/uk2Oax_98AwnPxT3CKuq9w/edit?utm_content=DAGhR5cu-fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
